@@ -1,5 +1,6 @@
 {
     "name": "vethelpdirect/nova-vet-username",
+    "version": "0.1.0",
     "description": "A Laravel Nova field.",
     "keywords": [
         "laravel",
